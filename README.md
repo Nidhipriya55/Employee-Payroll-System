@@ -2,9 +2,13 @@ This project is a simple Employee Payroll System developed using Java with a foc
 
 ========== Features ===========
 ** Add employee details (ID, name, role, salary, etc.)
+
 ** Calculate monthly and annual salary
+
 ** Generate simple payroll reports
+
 ** Different employee types (e.g., Full-Time, Part-Time,) using inheritance
+
 ** Modular, readable, and maintainable code using OOP design
 
 ========== OOP Concepts Used ==========
