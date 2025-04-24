@@ -1,6 +1,7 @@
 This project is a simple Employee Payroll System developed using Java with a focus on core Object-Oriented Programming (OOP) principles such as Encapsulation, Inheritance, Polymorphism, and Abstraction.
 
-========== Features ===========
+ 
+ ## Features ##
 
 ** Add employee details (ID, name, role, salary, etc.)
 
@@ -12,7 +13,8 @@ This project is a simple Employee Payroll System developed using Java with a foc
 
 ** Modular, readable, and maintainable code using OOP design
 
-========== OOP Concepts Used ==========
+## OOP Concepts Used ##
+
 1. Encapsulation
 Each class encapsulates its data and exposes only necessary information through getter and setter methods.
 
