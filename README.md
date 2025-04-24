@@ -1,11 +1,11 @@
 This project is a simple Employee Payroll System developed using Java with a focus on core Object-Oriented Programming (OOP) principles such as Encapsulation, Inheritance, Polymorphism, and Abstraction.
 
 ========== Features ===========
->> Add employee details (ID, name, role, salary, etc.)
->> Calculate monthly and annual salary
->> Generate simple payroll reports
->> Different employee types (e.g., Full-Time, Part-Time,) using inheritance
->> Modular, readable, and maintainable code using OOP design
+** Add employee details (ID, name, role, salary, etc.)
+** Calculate monthly and annual salary
+** Generate simple payroll reports
+** Different employee types (e.g., Full-Time, Part-Time,) using inheritance
+** Modular, readable, and maintainable code using OOP design
 
 ========== OOP Concepts Used ==========
 1. Encapsulation
